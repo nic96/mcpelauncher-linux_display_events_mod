@@ -1,0 +1,5 @@
+.directory
+*.kate-swp
+libs
+obj
+libminecraftpe.so
